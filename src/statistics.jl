@@ -1,6 +1,3 @@
-# Pkg.add("Bootstrap")
-# import Bootstrap
-
 """
 **Arguments**
 * `var1::Array`: One variable

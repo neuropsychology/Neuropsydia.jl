@@ -1,15 +1,17 @@
 # Copyright (C) 2016   Dominique Makowski
 __precompile__()
 
-
-
-
 module Neuropsydia
 
+using GLVisualize
 
+
+include("core.jl")
+export convert
+
+include("screen.jl")
 
 include("write.jl")
-# export convert
 # export write
 
 include("statistics.jl")
