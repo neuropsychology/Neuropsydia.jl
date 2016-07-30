@@ -4,8 +4,8 @@
 
 ||Neuropsydia|
 |----------------|---|
-|Package Status|![](https://img.shields.io/badge/status-beta-brightgreen.svg)|
-|Latest Version|![](https://img.shields.io/badge/version-0.9.0-brightgreen.svg)|
+|Package Status|![](https://img.shields.io/badge/status-alpha-brightred.svg)|
+|Latest Version|![](https://img.shields.io/badge/version-0.0.1-brightgreen.svg)|
 |Release Date|Soon|
 |Website|www.neuropsydia.com|
 |Authors|Dominique Makowski|
