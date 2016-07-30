@@ -1,5 +1,19 @@
+# Copyright (C) 2016   Dominique Makowski
+__precompile__()
+
+
+
+
 module Neuropsydia
 
-# package code goes here
+
+
+include("write.jl")
+# export convert
+# export write
+
+include("statistics.jl")
+export t_test
+
 
 end # module
