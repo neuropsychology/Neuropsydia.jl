@@ -6,9 +6,10 @@
 <html lang="en" class=" is-copy-enabled is-u2f-enabled">
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
     <meta charset='utf-8'>
+    
 
-    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-5fc7c6e8cf4372103a3e557a9fd70de7ffb44c643a350ece5b400060b64141e7.css" integrity="sha256-X8fG6M9DchA6PlV6n9cN5/+0TGQ6NQ7OW0AAYLZBQec=" media="all" rel="stylesheet" />
-    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-1abe330670f3facdeca99573d9b5f122b40ca1e23dcc670976079d3348f90db2.css" integrity="sha256-Gr4zBnDz+s3sqZVz2bXxIrQMoeI9zGcJdgedM0j5DbI=" media="all" rel="stylesheet" />
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-83796007490d53d3c7150b5b8d1bb223f645cc84b20ea8a123fd6d4867541050.css" integrity="sha256-g3lgB0kNU9PHFQtbjRuyI/ZFzISyDqihI/1tSGdUEFA=" media="all" rel="stylesheet" />
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-d8ed145bdf068fa6112b605071db55ccd9a7045533a2919d609fd28fbdf7d956.css" integrity="sha256-2O0UW98Gj6YRK2BQcdtVzNmnBFUzopGdYJ/Sj7332VY=" media="all" rel="stylesheet" />
     
     
     
@@ -16,12 +17,11 @@
 
     <link as="script" href="https://assets-cdn.github.com/assets/frameworks-404cdd1add1f710db016a02e5e31fff8a9089d14ff0c227df862b780886db7d5.js" rel="preload" />
     
-    <link as="script" href="https://assets-cdn.github.com/assets/github-17eda25854ec7a75229f05d174ed8b1fdf58ed0ae018f73d4f56d3e3ceda2e87.js" rel="preload" />
+    <link as="script" href="https://assets-cdn.github.com/assets/github-00274be02ca83717fd26c1217d72ead4b257c847581b6c7497ad0a88ccd20723.js" rel="preload" />
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Language" content="en">
     <meta name="viewport" content="width=device-width">
-    
     
     <title>for_research/README.md at master · Neuropsydia/for_research</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
@@ -43,7 +43,7 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/ODg3NTUzMzo3MDMxNjE5ZmI4NDM4Y2YzOTQ2ZjUxZTIyYWJjZjIyZToyOGY0M2RmZDkzZDQ3NjhhMTNkYzZlODBiY2Y4MTdiYzYyYjZjOTJhZjMxZGE0MmExNjM0ODY2NzI1ZTc1MzZi--87bc21da20de8dbfa1796ce66e87dd9721543b8d">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/ODg3NTUzMzpiNGU4ZmUyNTYzOWMwOGI3NzE2YzQzNTA3ZWE5ZTlhNzphM2U3YjNhYTI4MmFjNmYzZjgzMDMwOThhMDdkNTkwMDRmZWVlOGFkMzM5MmRlYzA5ODU2YzE4ZDQyN2ZhZGQw--a08468ff2e12ef0fb4b463077c63353d256e6391">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -55,7 +55,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="5EE4B922:5694:2381716:5799FB13" name="octolytics-dimension-request_id" /><meta content="8875533" name="octolytics-actor-id" /><meta content="dom009" name="octolytics-actor-login" /><meta content="7b9069446f9e60d598b8db52fa6b19269cfac6125a0058796d98b7d1206a6192" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="58B1F2BE:24EB:4144D1B:579CEDB1" name="octolytics-dimension-request_id" /><meta content="8875533" name="octolytics-actor-id" /><meta content="DominiqueMakowski" name="octolytics-actor-login" /><meta content="7b9069446f9e60d598b8db52fa6b19269cfac6125a0058796d98b7d1206a6192" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -65,19 +65,19 @@
 
 
         <meta name="hostname" content="github.com">
-    <meta name="user-login" content="dom009">
+    <meta name="user-login" content="DominiqueMakowski">
 
         <meta name="expected-hostname" content="github.com">
-      <meta name="js-proxy-site-detection-payload" content="NmU1ZmQ3ZDlkZDM0YzE5MmM1MjRhMTVmNjhkMjQ3MTQ5NTRlZThmODU1NDA1YzI0MzRiYTNmMzk3YTYyMDc2Ynx7InJlbW90ZV9hZGRyZXNzIjoiOTQuMjI4LjE4NS4zNCIsInJlcXVlc3RfaWQiOiI1RUU0QjkyMjo1Njk0OjIzODE3MTY6NTc5OUZCMTMiLCJ0aW1lc3RhbXAiOjE0Njk3MDkwNzV9">
+      <meta name="js-proxy-site-detection-payload" content="OTUzYzA4NTA2YzA5NmY1N2Q5NDRiMDFmMzdhOTljYzVmMjI4YmMzN2M1ZmM1MzIwMzc4OWYxZWY0ODZmMzM4Y3x7InJlbW90ZV9hZGRyZXNzIjoiODguMTc3LjI0Mi4xOTAiLCJyZXF1ZXN0X2lkIjoiNThCMUYyQkU6MjRFQjo0MTQ0RDFCOjU3OUNFREIxIiwidGltZXN0YW1wIjoxNDY5OTAyMjYwfQ==">
 
 
       <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
       <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
 
-    <meta name="html-safe-nonce" content="22d6241f53b21f768fc79b688d7ac41126d9984a">
-    <meta content="d387d63bd907baaad8eda21ac1e8f77902cf010c" name="form-nonce" />
+    <meta name="html-safe-nonce" content="8f637946580b72850a99155482eb2cab25580a89">
+    <meta content="8bc5c3af856e4c9c4d4cd5b90a2921e1b3020ebd" name="form-nonce" />
 
-    <meta http-equiv="x-pjax-version" content="619e18ccd7413573be123ebeb6f082f3">
+    <meta http-equiv="x-pjax-version" content="b9d16bd019cf28edf4e2b3202dae5d5b">
     
 
       
@@ -105,7 +105,7 @@
         <div class="header header-logged-in true" role="banner">
   <div class="container clearfix">
 
-    <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
+    <a class="header-logo-invertocat" href="https://github.com/orgs/neuropsychology/dashboard" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
   <svg aria-hidden="true" class="octicon octicon-mark-github" height="28" version="1.1" viewBox="0 0 16 16" width="28"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
 </a>
 
@@ -206,22 +206,22 @@
   </li>
 
   <li class="header-nav-item dropdown js-menu-container">
-    <a class="header-nav-link name tooltipped tooltipped-sw js-menu-target" href="/dom009"
+    <a class="header-nav-link name tooltipped tooltipped-sw js-menu-target" href="/DominiqueMakowski"
        aria-label="View profile and more"
        data-ga-click="Header, show menu, icon:avatar">
-      <img alt="@dom009" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/8875533?v=3&amp;s=40" width="20" />
+      <img alt="@DominiqueMakowski" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/8875533?v=3&amp;s=40" width="20" />
       <span class="dropdown-caret"></span>
     </a>
 
     <div class="dropdown-menu-content js-menu-content">
       <div class="dropdown-menu dropdown-menu-sw">
         <div class="dropdown-header header-nav-current-user css-truncate">
-          Signed in as <strong class="css-truncate-target">dom009</strong>
+          Signed in as <strong class="css-truncate-target">DominiqueMakowski</strong>
         </div>
 
         <div class="dropdown-divider"></div>
 
-        <a class="dropdown-item" href="/dom009" data-ga-click="Header, go to profile, text:your profile">
+        <a class="dropdown-item" href="/DominiqueMakowski" data-ga-click="Header, go to profile, text:your profile">
           Your profile
         </a>
         <a class="dropdown-item" href="/stars" data-ga-click="Header, go to starred repos, text:your stars">
@@ -244,7 +244,7 @@
           Settings
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="d387d63bd907baaad8eda21ac1e8f77902cf010c" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="UGzg3eLg8F362TDKnMj4n+GGrJtd9lc4CKSynnRSVqvKHpm0zTxBlvup28l97QjoS8sfZnWi+ErGN5UKhAmVRQ==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="8bc5c3af856e4c9c4d4cd5b90a2921e1b3020ebd" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="w/sYwyIEsMvSxIOezELGGEn/z/mZx3AAo3ep+bW6e9IlqFe8wYiEr7jzvCIunobrq9tL51Erwf9mE27q6hx1vg==" /></div>
           <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -280,7 +280,7 @@
 <ul class="pagehead-actions">
 
   <li>
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="d387d63bd907baaad8eda21ac1e8f77902cf010c" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zdNXdl8PKsJEIMLM99XpQhPZsoDiP0KmbQNVPH3Zb0Xolxq0lG2S/YYDWY8TqPZXnAIN8VQsypp60K20D1a3SA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="56664340" />
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="8bc5c3af856e4c9c4d4cd5b90a2921e1b3020ebd" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GkgSptE7rUH0zLa934+N77nA/nOvpLEJMqmHGxHmLMktpukzHQEKnK02e5n+I88qfUNxEy6Q1tcMlZO31wTJ3A==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="56664340" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/Neuropsydia/for_research/subscription"
@@ -355,7 +355,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Neuropsydia/for_research/unstar" class="starred" data-form-nonce="d387d63bd907baaad8eda21ac1e8f77902cf010c" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uwHDM8rIGcpWGmlmgjqS5ShwaSDvVI5QTn0qS9muZv+xhFV+Tu+MD0jOjxzjChqqQNiBiAkhRHcdk97Z4r30vw==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Neuropsydia/for_research/unstar" class="starred" data-form-nonce="8bc5c3af856e4c9c4d4cd5b90a2921e1b3020ebd" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="z41TYDsHYivE34Wd1vjcKcinNBilID00/ct9cPrLdDzV4iBeYoUGtjAk+59J7eWmXySYGME2AeoM6EtgbIHWYQ==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar Neuropsydia/for_research"
@@ -367,7 +367,7 @@
           0
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Neuropsydia/for_research/star" class="unstarred" data-form-nonce="d387d63bd907baaad8eda21ac1e8f77902cf010c" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="pcVYPNtGjdRRpRjuXY7BDfYIGyuEEqX8+o2QXmQTWMgwq2n5AKDDWpp8Rn6USBw/en28l7/RdsqnpfGXhod6Uw==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Neuropsydia/for_research/star" class="unstarred" data-form-nonce="8bc5c3af856e4c9c4d4cd5b90a2921e1b3020ebd" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8kwlCwk1uAdSye01l+VkI/SVSBlhxoljr1bxr89hZIpmtEF5SYh0HEhVT8aUnOR8JklYamc5Pa/MwCwV0imkgg==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star Neuropsydia/for_research"
@@ -529,7 +529,7 @@
             </a>
         </div>
 
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Neuropsydia/for_research/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" data-form-nonce="d387d63bd907baaad8eda21ac1e8f77902cf010c" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="H0nipE6gdLpZP4Jyptghcq6a2tP2J5K47I18m/vUN0eXNZXExUk+zZR7eHlbdmtW+3AZQFVtnskgrQkWEAav2Q==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Neuropsydia/for_research/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" data-form-nonce="8bc5c3af856e4c9c4d4cd5b90a2921e1b3020ebd" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="HKmYm38g7LqjQvFi6ZBG7GmjvrkeTb3OjGTYo/1I3Ol+6JEt0dArLn/9RUsE3eRgCaYAYNudwXw8YiTN9qWS6w==" /></div>
           <svg aria-hidden="true" class="octicon octicon-git-branch select-menu-item-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -605,12 +605,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"></path></svg>
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Neuropsydia/for_research/edit/master/README.md" class="inline-form js-update-url-with-hash" data-form-nonce="d387d63bd907baaad8eda21ac1e8f77902cf010c" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="eC47g0RfR8y7fdttctUsmep68ikLrWv/haPoGALLN5FhOMGUpVl0bNcl0BH2aC3uopVF6pX3ZpopnNsTB4r9vA==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Neuropsydia/for_research/edit/master/README.md" class="inline-form js-update-url-with-hash" data-form-nonce="8bc5c3af856e4c9c4d4cd5b90a2921e1b3020ebd" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="xfjT+QMK7IjuvQ4S/BDDSsRRS/AYkbS0ivcq6+4rkKzzWJxF0cyEMU5snxIjcibcTzY4mvCX7qcpdlxmsUryRw==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Edit this file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
           </button>
-</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Neuropsydia/for_research/delete/master/README.md" class="inline-form" data-form-nonce="d387d63bd907baaad8eda21ac1e8f77902cf010c" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jok3Nyv8U/X8jqOWyucOD7QpQwTzMdDzhBdgbCFaBc1iBNetgY7ETtdgyWGxpulTBKUzj+wipof1ngGsQ37i0w==" /></div>
+</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Neuropsydia/for_research/delete/master/README.md" class="inline-form" data-form-nonce="8bc5c3af856e4c9c4d4cd5b90a2921e1b3020ebd" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="XDYXbnQXHYC0loRWqpv5KGuWRb3PbLBonsv2sikVxgVdf+AZZkxdh1p2B46UC0BYw+I4U9kUxgeAvQqf7HqtBA==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
@@ -736,7 +736,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2016 <span title="0.22075s from github-fe135-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2016 <span title="0.11973s from github-fe162-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -761,7 +761,7 @@
 
       
       <script crossorigin="anonymous" integrity="sha256-QEzdGt0fcQ2wFqAuXjH/+KkInRT/DCJ9+GK3gIhtt9U=" src="https://assets-cdn.github.com/assets/frameworks-404cdd1add1f710db016a02e5e31fff8a9089d14ff0c227df862b780886db7d5.js"></script>
-      <script async="async" crossorigin="anonymous" integrity="sha256-F+2iWFTsenUinwXRdO2LH99Y7QrgGPc9T1bT487aLoc=" src="https://assets-cdn.github.com/assets/github-17eda25854ec7a75229f05d174ed8b1fdf58ed0ae018f73d4f56d3e3ceda2e87.js"></script>
+      <script async="async" crossorigin="anonymous" integrity="sha256-ACdL4CyoNxf9JsEhfXLq1LJXyEdYG2x0l60KiMzSByM=" src="https://assets-cdn.github.com/assets/github-00274be02ca83717fd26c1217d72ead4b257c847581b6c7497ad0a88ccd20723.js"></script>
       
       
       
