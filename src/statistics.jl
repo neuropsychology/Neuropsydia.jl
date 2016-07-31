@@ -1,4 +1,6 @@
 """
+Run bootstrapped t-tests and get an APA6-ready output.
+
 **Arguments**
 * `var1::Array`: One variable
 * `var2::Array`: Another variable
@@ -13,7 +15,7 @@ y = [4,6,2,4,4]
 t_test(x, y)
 ```
 """
-function t_test(var1::Array, var2::Array; n_samples=10000)
+function t_test(var1::Array, var2::Array; n_samples::Int=10000)
     d_obs = mean(var1) - mean(var2)
     d_list = []
     population = [var1; var2]
@@ -26,7 +28,7 @@ function t_test(var1::Array, var2::Array; n_samples=10000)
         push!(d_list, mean(resampled1) - mean(resampled2))
     end
 
-    sort!(d_list)
+    # sort!(d_list)
     # ci = Bootstrap.ci(d_list, 0.95)
 
     percentage = length(filter(x -> x > d_obs, d_list))/n_samples

@@ -3,19 +3,23 @@ __precompile__()
 
 module Neuropsydia
 
-using GLVisualize
+# import GLVisualize
+import GLFW
+# import GLWindow
+# import GLAbstraction
+# import GeometryTypes
 
-
-include("core.jl")
-export convert
-
-include("screen.jl")
-
-global window = glscreen(resolution=(screen_width_px, screen_height_px))
-
-include("write.jl")
-# export write
-
+# include("screen.jl")
+# # export convert
+# # export start
+# # export refresh
+#
+# include("core.jl")
+# # export response
+#
+# include("write.jl")
+# # export write
+#
 include("statistics.jl")
 export t_test
 
