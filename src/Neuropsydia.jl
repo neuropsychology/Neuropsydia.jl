@@ -11,6 +11,8 @@ export convert
 
 include("screen.jl")
 
+global window = glscreen(resolution=(screen_width_px, screen_height_px))
+
 include("write.jl")
 # export write
 
