@@ -38,6 +38,8 @@ function start()
     global window = GLVisualize.glscreen("Neuropsydia", resolution=(screen_width_px, screen_height_px))
 end
 
+
+
 function refresh()
-    GLVisualize.renderloop(window)
+    GLWindow.render_frame(window)
 end

@@ -1,3 +1,5 @@
+original_path = pwd()
+
 function response()
     while !GLFW.GetKey(GLFW.KEY_ESCAPE)
         if GLFW.GetKey(GLFW.KEY_UP) == true
