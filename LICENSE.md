@@ -1,4 +1,4 @@
-Thank you for citing Neuropsydia, its website, papers or developpers when using it :)
+**Thank you for citing Neuropsydia, its website, papers or developpers when using it :)**
 
 
 Copyright (c) 2016: Dominique Makowski and the Neuropsydia Development Team.
