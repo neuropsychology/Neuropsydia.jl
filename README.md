@@ -11,9 +11,5 @@
 |Test Coverage|[![Coverage Status](https://coveralls.io/repos/github/neuropsychology/Neuropsydia.jl/badge.svg?branch=master)](https://coveralls.io/github/neuropsychology/Neuropsydia.jl?branch=master)|
 |Latest Version|![](https://img.shields.io/badge/version-0.0.1-brightgreen.svg)|
 |Release Date|Soon|
-|Website|www.neuropsydia.com|
 |Authors|Dominique Makowski|
 [comment]: # (|Contributors|NA|)
-
-## Installation
-Soon.
