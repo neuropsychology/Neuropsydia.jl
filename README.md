@@ -5,6 +5,8 @@
 
 **NOT WORKING AT ALL AT THE MOMENT**
 
+**SEE [THE WORKING PYTHON VERSION](https://github.com/neuropsychology/Neuropsydia.py)**
+
 ||Neuropsydia|
 |----------------|---|
 |Package Status|![](https://img.shields.io/badge/status-dev-brightred.svg)|
